@@ -1,0 +1,7 @@
+SCDADOS/SCDADOS.db
+venv/
+__pycache__/
+app/__pycache__/
+app/bluePrints/__pycache__/
+app/controller/__pycache__/
+app/model/__pycache__/
